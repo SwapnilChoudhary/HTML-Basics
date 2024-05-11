@@ -59,3 +59,5 @@ language that helps to structure and format content on the
 web. HTML provides the basic building blocks from which
 more complex web features are constructed, such as forms
 and interactive elements. In this chapter, we will
+explore some fundamental concepts in HTML including tags,
+attributes, and nesting structures.
