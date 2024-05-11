@@ -57,3 +57,5 @@ HTML is the backbone of any web page.
 It stands for HyperText Markup Language - a
 language that helps to structure and format content on the
 web. HTML provides the basic building blocks from which
+more complex web features are constructed, such as forms
+and interactive elements. In this chapter, we will
